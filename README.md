@@ -32,11 +32,13 @@ pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.c
 
 🌟 video Tutorials how to install this tool
  
-  #  Official White Hat Team youtube
+ https://youtube.com/shorts/k5wRKzQHvzU?feature=share
 
-  https://youtube.com/shorts/k5wRKzQHvzU?feature=share
+ #  Official White Hat Team youtube channel
 
- # official github 
+  https://youtube.com/channel/UCc6J2F5zO3NynpG1dSxaAFA
+ 
+# official github 
 
 https://github.com/WhiteHatTeamOfficial
 
