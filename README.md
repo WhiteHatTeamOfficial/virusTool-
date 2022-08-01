@@ -40,6 +40,7 @@ pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.c
 
  #  Official White Hat Team youtube channel
 
+🙏 Subscribe my youtube channel share with your friends and family support me please 🥺
   https://youtube.com/channel/UCc6J2F5zO3NynpG1dSxaAFA
  
 # official github 
