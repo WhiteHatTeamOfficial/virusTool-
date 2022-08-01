@@ -24,7 +24,7 @@ my whatsapp number : +91 9176810909
 
 # ⚙️ installation 
 
- 👉 Single click to copy all code and paste in termux 
+ 👉 Select to copy all code and paste in termux 
 
 pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.com/WhiteHatTeamOfficial/virusTool-.git && cd virusTool-  && ls && clear && ls && chmod +x * && ls && clear && ./hacking.sh
 
