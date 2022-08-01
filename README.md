@@ -34,6 +34,10 @@ pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.c
  
  https://youtube.com/shorts/k5wRKzQHvzU?feature=share
 
+🌟 Video Tutorials how to run this tool 
+
+ https://youtube.com/shorts/hxzLAHpH1Ho?feature=share
+
  #  Official White Hat Team youtube channel
 
   https://youtube.com/channel/UCc6J2F5zO3NynpG1dSxaAFA
