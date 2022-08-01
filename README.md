@@ -22,7 +22,7 @@ my whatsapp number : +91 9176810909
 
  This is a powerful virusTool Android phone 
 
-# ☠️ installation ☠️
+# ⚙️ installation 
 
  👉 Single click to copy all code and paste in termux 
 
