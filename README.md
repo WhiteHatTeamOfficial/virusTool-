@@ -49,5 +49,5 @@ https://github.com/WhiteHatTeamOfficial
 
 # official telegram channel
 
-https://telegran.me/WhiteHatTeam
+https://telegram.me/WhiteHatTeam
 
