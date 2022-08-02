@@ -51,3 +51,7 @@ https://github.com/WhiteHatTeamOfficial
 
 https://telegram.me/WhiteHatTeam
 
+# Preview telegram channel
+
+https://telegram.me/s/WhiteHatTeam
+
